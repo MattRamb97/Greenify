@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="WhatsApp Image 2024-04-11 at 12.13.52-fotor-bg-remover-20240411145151.png">
+<img align="center" src="WhatsApp Image 2024-04-11 at 12.13.52-fotor-bg-remover-20240411145151.png">
   
   <!--"https://stateimpactcenter.org/images/general/_full/Blog-Powering-Up-for-a-Clean-Energy-Transition-10-12-23.jpg" width="100%">-->
 
