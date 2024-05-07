@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-<img width="150" height="150" src="Logo_Greenify.png">
+<img width="150" height="150" src="brochure_1.png">
 </p>
   <!--"https://stateimpactcenter.org/images/general/_full/Blog-Powering-Up-for-a-Clean-Energy-Transition-10-12-23.jpg" width="100%">-->
 
