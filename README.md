@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
 <img src="Brochure_1.jpg">
+<img src="Brochure_2.jpg">
 </p>
   <!--"https://stateimpactcenter.org/images/general/_full/Blog-Powering-Up-for-a-Clean-Energy-Transition-10-12-23.jpg" width="100%">-->
 
